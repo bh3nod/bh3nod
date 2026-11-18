@@ -1,6 +1,6 @@
-# Hi, I'm bh3nod 👋
+# Hi, I go by bh3nod 👋
 
-I'm a platform engineer. For the past 10+ years I've built and run the infrastructure behind banks,
+It's my callsign online. I'm a platform engineer. For the past 10+ years I've built and run the infrastructure behind banks,
 wealth managers, telcos and IoT companies across the UAE, GCC and EMEA — the kind of systems where
 "we'll fix it on Monday" isn't an option.
 
