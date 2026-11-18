@@ -27,8 +27,12 @@ something breaks.
 - **Cloud and infrastructure as code:** mostly Azure, plus AWS and GCP; Terraform, Pulumi, Crossplane
 - **Supply chain and security:** signed images, admission policy with Kyverno, secrets that never sit in Git
 - **AI in operations:** incident triage, runbooks an agent can actually execute, and knowing what all of it costs
-- **Large migrations:** I once moved 720+ routes across ~150 services from nginx to Envoy Gateway.
-  The best part was that nobody noticed.
+- **Agentic AI:** designing agent workflows and the harnesses around them, so agents can ship code,
+  run operational tasks, and hand off to a human when they should.
+- **Legacy to digital transformation:** taking systems nobody dares to touch and moving them onto
+  modern, automated platforms, without stopping the business while it happens.
+- **On-prem to cloud migration:** moving workloads from data centers to the cloud, from landing zones
+  and planning through to cutover, with a rollback plan ready the whole way.
 
 ### Certifications
 
