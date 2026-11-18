@@ -1,32 +1,35 @@
 # Hi, I'm bh3nod 👋
 
-**Lead Platform Engineer building AI-native platforms.** 10+ years designing, operating and leading
-cloud-native, hybrid and on-prem platforms for banking, wealth-management, telco and IoT across the
-UAE, GCC and EMEA. I work where AI meets self-healing automation, cloud and IaC, CI/CD, security,
-FinOps for AI usage, and platform transformation.
+I'm a platform engineer. For the past 10+ years I've built and run the infrastructure behind banks,
+wealth managers, telcos and IoT companies across the UAE, GCC and EMEA — the kind of systems where
+"we'll fix it on Monday" isn't an option.
 
-Lately most of my time goes into one question: how do you let AI do real operational work without
-giving up control? My answer so far is boring on purpose — agents propose, policy decides, humans
-approve, and everything leaves an audit trail. I care less about impressive demos and more about
-what still works at 3 a.m. when something breaks.
+These days I spend most of my time on one question: **how do you let AI do real operations work
+without giving up control?** My answer so far is boring on purpose — agents propose, policy decides,
+humans approve, and everything leaves an audit trail. I care less about impressive demos and more
+about what still works at 3 a.m. when something breaks.
 
-- **Now building:** policy-gated remediation for AI agents on Kubernetes (candidate: `policy-heal-operator`; link when public)
-- **Based in:** Dubai, UAE
+### What I'm building
 
-### What I work on
+**`policy-heal-operator`**: policy-gated remediation for AI agents on Kubernetes. An agent can
+suggest a fix, but nothing changes until it passes policy, a dry run and an audit log. Not public
+yet; it'll show up here when it's ready.
 
-- **Self-healing automation:** AI agents that propose fixes, with policy, dry-run and audit before anything changes; AI-assisted L1 triage and agent-executable runbooks
-- **Cloud and IaC:** Azure (primary), AWS, GCP, OCI; Terraform, Terragrunt, Pulumi (Go), Crossplane, Ansible; hub-and-spoke networking
-- **CI/CD and supply chain:** Flux CD and Argo CD GitOps, GitHub Actions, Jenkins, Azure DevOps; cosign signing with Kyverno verification and digest-pinned promotion
-- **Security:** least-privilege identity and policy for automation and AI agents; External Secrets + Azure Key Vault, PIM, Kyverno, mTLS, ISO 27001 / SOC 2
-- **FinOps for AI:** knowing what AI usage costs and who it belongs to; cost-impact reports on infrastructure PRs
-- **Platform transformation:** led the org-wide nginx → Envoy Gateway migration (720+ routes, ~150 microservices) and Sealed Secrets → External Secrets + Key Vault cutovers
+### What I know well
+
+- **Kubernetes and GitOps:** OpenShift, Flux, Argo CD, Envoy Gateway
+- **Cloud and infrastructure as code:** mostly Azure, plus AWS and GCP; Terraform, Pulumi, Crossplane
+- **Supply chain and security:** signed images, admission policy with Kyverno, secrets that never sit in Git
+- **AI in operations:** incident triage, runbooks an agent can actually execute, and knowing what all of it costs
+- **Large migrations:** I once moved 720+ routes across ~150 services from nginx to Envoy Gateway.
+  The best part was that nobody noticed.
 
 ### Certifications
 
-AWS Solutions Architect – Professional · Azure Solutions Architect Expert · Azure Administrator Associate · CKA · CKS · GitOps for Argo (Codefresh) · Oracle Certified Architect – Professional
+AWS Solutions Architect – Professional · Azure Solutions Architect Expert · CKA · CKS ·
+Azure Administrator Associate · GitOps for Argo · Oracle Certified Architect – Professional
 
-### Contact
+### Say hello
 
-- LinkedIn: https://linkedin.com/in/dhenod
-
+I'm based in Dubai and always happy to talk platform engineering, GitOps, or putting AI to work in
+production safely. The easiest way to reach me is [LinkedIn](https://linkedin.com/in/dhenod).
