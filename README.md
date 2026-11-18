@@ -1,14 +1,14 @@
-# Hi, I'm Raja Ehtisham Tahir
+# Hi, I'm bh3nod 👋
 
 **Lead Platform Engineer building AI-native platforms.** 10+ years designing, operating and leading
 cloud-native, hybrid and on-prem platforms for banking, wealth-management, telco and IoT across the
 UAE, GCC and EMEA. I work where AI meets self-healing automation, cloud and IaC, CI/CD, security,
 FinOps for AI usage, and platform transformation.
 
-I currently lead the platform for a multi-region Azure + on-prem OpenShift estate serving regulated
-banks and a global custodian — ~150 microservices on Flux GitOps behind an Envoy Gateway data plane —
-bringing AI into day-to-day operations through AI-assisted incident triage, agent-executable runbooks
-and AI-assisted release promotion.
+Lately most of my time goes into one question: how do you let AI do real operational work without
+giving up control? My answer so far is boring on purpose — agents propose, policy decides, humans
+approve, and everything leaves an audit trail. I care less about impressive demos and more about
+what still works at 3 a.m. when something breaks.
 
 - **Now building:** policy-gated remediation for AI agents on Kubernetes (candidate: `policy-heal-operator`; link when public)
 - **Based in:** Dubai, UAE
