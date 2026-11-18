@@ -20,6 +20,9 @@ something breaks.
   third time.
 - **Guardrails:** policy, approvals and audit trails, so automation is something you can actually
   trust in production.
+- **Security for agentic AI:** treating every agent like a new team member with production access.
+  That means its own least-privilege identity, short-lived credentials, sandboxed tools, defenses
+  against prompt injection, and a clear record of what it did and why.
 
 ### What I know well
 
